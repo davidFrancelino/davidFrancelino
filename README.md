@@ -1,5 +1,4 @@
 - 👋 Olá mundo! Sou o @davidFrancelino
 - 👀 Me interesso em dados e negócios
 - 🌱 Estou aprendo Python e R
-- 💞️ 99% Saúde, mas aquele 1% é varejo e eccom
 - 📫 https://www.linkedin.com/in/david-francelino/
